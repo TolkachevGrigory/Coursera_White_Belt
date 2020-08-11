@@ -30,6 +30,11 @@ int main() {
     int x;
     cin>>x;
     cout<<Factorial(x)<<endl;
-    return 0;
+    return 0; 
+    
 }
+
+
+
+
 
