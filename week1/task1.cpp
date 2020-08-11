@@ -1,6 +1,7 @@
 //
 //  week2task1
 //
+
 //  Created by Григорий Толкачев on 33.07.2020.
 //  Copyright © 2020 Григорий Толкачев. All rights reserved.
 //  Напишите функцию, которая
